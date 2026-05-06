@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "loneysmp.aternos.me",
+    "ip": "mc.loneysmp.space",
     "port": 44598,
     "version": "1.21.11",
     "try-creative": false
